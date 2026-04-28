@@ -1,3 +1,10 @@
+# Overview
+This project is an interactive flashcard app that helps users study SQL language in an engaging way. Users can click on a card to reveal the matching answer and use the next button to view a random new card. The app also includes images and different visual styles to make studying feel more organized and interactive.
+
+
+
+
+
 # Web Development Project 2 - SQL Flashcards
 
 Submitted by: Dakshita Pal
